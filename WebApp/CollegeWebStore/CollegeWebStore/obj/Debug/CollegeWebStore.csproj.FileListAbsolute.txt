@@ -1,0 +1,154 @@
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.dll.config
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.pdb
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Antlr3.Runtime.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\EntityFramework.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\EntityFramework.SqlServer.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Newtonsoft.Json.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Owin.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\System.Web.Optimization.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\System.Web.Providers.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\WebGrease.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\System.Web.Optimization.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Antlr3.Runtime.pdb
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Newtonsoft.Json.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\EntityFramework.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\EntityFramework.SqlServer.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\System.Web.Providers.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.csprojResolveAssemblyReference.cache
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.dll
+c:\users\sjudge\documents\visual studio 2013\Projects\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.pdb
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.pdb
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Antlr3.Runtime.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\AspNet.ScriptManager.bootstrap.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\AspNet.ScriptManager.jQuery.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.SqlServer.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Core.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Cookies.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Facebook.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Google.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.OAuth.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Twitter.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.ScriptManager.WebForms.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Web.Infrastructure.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Newtonsoft.Json.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Owin.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Optimization.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Providers.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\WebGrease.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Optimization.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Antlr3.Runtime.pdb
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Newtonsoft.Json.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.SqlServer.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Core.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Providers.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Facebook.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Cookies.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Google.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Twitter.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.OAuth.xml
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.dll
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.pdb
+G:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.csprojResolveAssemblyReference.cache
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\CollegeWebStore.pdb
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Antlr3.Runtime.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\AspNet.ScriptManager.bootstrap.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\AspNet.ScriptManager.jQuery.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.SqlServer.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Core.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Cookies.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Facebook.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Google.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.OAuth.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Twitter.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.ScriptManager.WebForms.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Web.Infrastructure.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Newtonsoft.Json.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Owin.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Optimization.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Providers.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\WebGrease.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Optimization.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Antlr3.Runtime.pdb
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Newtonsoft.Json.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\EntityFramework.SqlServer.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Core.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\System.Web.Providers.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Facebook.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Cookies.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Google.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.Twitter.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\bin\Microsoft.Owin.Security.OAuth.xml
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.csprojResolveAssemblyReference.cache
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.dll
+F:\College\ASP.NET\WebApp\CollegeWebStore\CollegeWebStore\obj\Debug\CollegeWebStore.pdb
